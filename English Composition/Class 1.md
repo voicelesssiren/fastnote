@@ -18,3 +18,13 @@ Class 1
 ## Exam time:
 - Midterm test: Week 6
 - Final test: Week 13
+
+## Structure of a paragraph:
+1. A paragraph are a group of related sentenced that develops one idea.
+2. A paragraph is like a hamburger:
+
+3. A paragraph consists of:
+- Topic sentence
+- Supporting sentences
+- Concluding sentences
+    
