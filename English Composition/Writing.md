@@ -16,13 +16,13 @@ We mark a paragraph by **indenting the first word** half an inch (five spaces on
 - Point 2: Gold's applications in photography, dentistry and in astronauts' suit.
 ## The Three Parts of a Paragraph:
 - All paragraphs have a **topic sentence** and **supporting sentences**, and some paragragh also have a **concluding sentence**.
-\\\\\\\\\\\\
+ ---------------
 - The topic sentence **states the main idea of the paragraph**. It **names the topic of the paragraph**, and limit the topic to one specific area that can be discussed completely in the space of a single paragraph.
 - **_Controlling Idea_**: the part of the topic sentence that annouces the specific part to be dicussed.
 - The topic sentence states both the topic and the controlling idea.
- \\\\\\\\\\\\
+ ---------------
 - Supporting sentences develop the topic sentence: They explain or prove the topic sentence by giving more information about it.
- \\\\\\\\\\\\\
+ ---------------
 - Concluding sentence signals the end of the paragraph and leaves the reader with important points to remember.
 - Concluding sentences are customary for stand-alone parapraphs. Paragraphs that are parts of a longer piece of writing usually do not need concluding sentences.
 
